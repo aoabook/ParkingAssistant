@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Parking Assistant</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Parking Assistant</string>
+    <string name="default_range">5 m</string>
+
+</resources>
